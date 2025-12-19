@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\bin\Debug\net10.0\dotnet_programs.exe
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\bin\Debug\net10.0\dotnet_programs.deps.json
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\bin\Debug\net10.0\dotnet_programs.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\bin\Debug\net10.0\dotnet_programs.dll
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\bin\Debug\net10.0\dotnet_programs.pdb
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\obj\Debug\net10.0\dotnet_programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\obj\Debug\net10.0\dotnet_programs.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\obj\Debug\net10.0\dotnet_programs.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\obj\Debug\net10.0\dotnet_programs.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\obj\Debug\net10.0\dotnet_programs.dll
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\obj\Debug\net10.0\refint\dotnet_programs.dll
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\obj\Debug\net10.0\dotnet_programs.pdb
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\obj\Debug\net10.0\dotnet_programs.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\obj\Debug\net10.0\ref\dotnet_programs.dll

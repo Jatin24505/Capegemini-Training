@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Program.cs" />
+    <Content Include="add.cs" />
+    <Content Include="Area.cs" />
+    <Content Include="gaming.cs" />
+    <Content Include="Day1\sum of the digits.cs" />
+    <Content Include="Day1\even odd.cs" />
+    <Content Include="Day1\reverse.cs" />
+    <Content Include="Day1\largest three number.cs" />
+    <Content Include="Day1\feet to centimeter.cs" />
+    <Content Include="Day1\min to sec.cs" />
+    <Content Include="dotnet_programs.sln" />
+  </ItemGroup>
+</Project>
