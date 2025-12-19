@@ -18,5 +18,8 @@
     <Content Include="Day1\feet to centimeter.cs" />
     <Content Include="Day1\min to sec.cs" />
     <Content Include="dotnet_programs.sln" />
+    <Content Include="day 2\financecontrol.cs" />
+    <Content Include="day 2\gaming.cs" />
+    <Content Include="day 2\smallproject.cs" />
   </ItemGroup>
 </Project>
