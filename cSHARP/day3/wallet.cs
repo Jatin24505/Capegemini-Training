@@ -1,4 +1,4 @@
-using System.Reflection.Metadata.Ecma335;
+
 
 class Wallet
 {
@@ -18,10 +18,6 @@ class Mathops
     public int add(int a , int b)
     {
         return a +b;
-    }
-    public int add(int a,int b, int c)
-    {
-        return a+b+c;
     }
     public double add(double a, double b)
     {
