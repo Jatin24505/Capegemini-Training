@@ -21,5 +21,18 @@
     <Content Include="day 2\financecontrol.cs" />
     <Content Include="day 2\gaming.cs" />
     <Content Include="day 2\smallproject.cs" />
+    <Content Include=".git\COMMIT_EDITMSG" />
+    <Content Include="cSHARP\day 2\smallproject.cs" />
+    <Content Include="cSHARP\day 2\gaming.cs" />
+    <Content Include="cSHARP\day 2\financecontrol.cs" />
+    <Content Include="cSHARP\Day1\sum of the digits.cs" />
+    <Content Include=".gitignore" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\dotnet_programs.csproj.nuget.g.targets" />
+    <Content Include="obj\project.nuget.cache" />
+    <Content Include="obj\dotnet_programs.csproj.nuget.dgspec.json" />
+    <Content Include="day3\bank.cs" />
+    <Content Include="day3\wallet.cs" />
+    <Content Include="cSHARP\day3\wallet.cs" />
   </ItemGroup>
 </Project>
