@@ -1,0 +1,42 @@
+-----------------------------
+Time: 12/29/2025 2:06:42 PM
+Type: DivideByZeroException
+Message: Attempted to divide by zero.
+StackTrace:    at Program.Main() in C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\Program.cs:line 14
+-----------------------------
+Time: 12/29/2025 2:07:02 PM
+Type: DivideByZeroException
+Message: Attempted to divide by zero.
+StackTrace:    at Program.Main() in C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\Program.cs:line 14
+-----------------------------
+Time: 12/29/2025 2:10:06 PM
+Type: DivideByZeroException
+Message: Attempted to divide by zero.
+StackTrace:    at Program.Main() in C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\Program.cs:line 15
+-----------------------------
+Time: 12/29/2025 2:12:03 PM
+Type: DivideByZeroException
+Message: Attempted to divide by zero.
+StackTrace:    at Program.Main() in C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\Program.cs:line 15
+-----------------------------
+Time: 12/29/2025 2:17:50 PM
+Type: DivideByZeroException
+Message: Attempted to divide by zero.
+StackTrace:    at Program.Main() in C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\Program.cs:line 15
+-----------------------------
+Time: 12/29/2025 2:18:12 PM
+Type: FileNotFoundException
+Message: Could not find file 'C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\account.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Int32 bufferSize)
+   at System.IO.File.ReadAllText(String path, Encoding encoding)
+   at Program.Main() in C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\Program.cs:line 17
+-----------------------------
+Time: 12/29/2025 2:19:06 PM
+Type: InsufficientBalanceException
+Message: Insufficient balance.
+StackTrace:    at BankAccount.Withdraw(Decimal amount) in C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\cSHARP\day 8\exception.cs:line 26
+   at Program.Main() in C:\Users\ACER\OneDrive\Desktop\Capgemini_Training\dotnet_programs\Program.cs:line 20

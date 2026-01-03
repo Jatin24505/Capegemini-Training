@@ -53,6 +53,7 @@
 //             Console.WriteLine($"Index {i} => {prices[i]}");
 //         }
 
+
 //         // ================= TASK 2 =================
 //         Console.WriteLine("\n--- TASK 2: BRANCH SALES ANALYSIS ---");
 

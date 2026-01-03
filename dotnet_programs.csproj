@@ -34,5 +34,25 @@
     <Content Include="day3\bank.cs" />
     <Content Include="day3\wallet.cs" />
     <Content Include="cSHARP\day3\wallet.cs" />
+    <Content Include="cSHARP\day3\method overloading.cs" />
+    <Content Include="cSHARP\day3\defaultparameter.cs" />
+    <Content Include="cSHARP\day3\bank.cs" />
+    <Content Include="cSHARP\day3\OUTSIDE CLASS ACCESS.CS" />
+    <Content Include="cSHARP\day3\in out.cs" />
+    <Content Include="cSHARP\day3\lambda.cs" />
+    <Content Include="cSHARP\day3\local.cs" />
+    <Content Include="cSHARP\Day1\Area.cs" />
+    <Content Include="cSHARP\day 5\interface.cs" />
+    <Content Include="hospitalsystem\services\billingclass.cs" />
+    <Content Include="hospitalsystem\services\DiagosisService.cs" />
+    <Content Include="cSHARP\day 5\LIBRARYMANAGEMENTSYSTEM\LIBRARY.CS" />
+    <Content Include="cSHARP\day 6\array foreach.cs" />
+    <Content Include="cSHARP\day 6\2darr.cs" />
+    <Content Include="cSHARP\day 6\assignment.cs" />
+    <Content Include="cSHARP\day 7\medicalassignment.cs" />
+    <Content Include="cSHARP\day 7\quickmart.cs" />
+    <Content Include="cSHARP\day 8\account.txt" />
+    <Content Include="cSHARP\day 8\exception.cs" />
+    <Content Include="cSHARP\day  10\dispose.cs" />
   </ItemGroup>
 </Project>
